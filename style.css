@@ -50,7 +50,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(image/IMG_7962.JPG) no-repeat;
+    background: url(IMG_7962.JPG) no-repeat;
     background-size: cover ;
     background-position: center;
     background-attachment: fixed;
@@ -306,4 +306,5 @@ project-card:hover .projectimage {
 
     }
     
+
 }
